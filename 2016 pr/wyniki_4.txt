@@ -1,0 +1,20 @@
+4.1
+na okręgu:
+256	8
+200	400
+we wnętrzu koła:
+7852
+
+4.2
+pierwsze 1000:
+3,228
+pierwsze 5000:
+3,1656
+wszystkie:
+3,1416
+
+4.3
+dla n = 1000:
+0,0864
+dla n = 1700:
+0,0184
