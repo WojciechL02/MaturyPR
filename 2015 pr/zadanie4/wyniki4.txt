@@ -1,0 +1,10 @@
+4.1
+422
+
+4.2
+Przez 2: 500
+Przez 8: 123
+
+4.3
+Najmniejsza: 859
+Najwiêksza: 925
